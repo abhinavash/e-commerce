@@ -55,3 +55,11 @@ npm i react-icons
 ## for router
 
 npm i react-router-dom
+
+## for barnds marquee
+
+npm i react-fast-marquee
+
+## for star ratings
+
+npm i react-rating-stars-component

@@ -63,3 +63,7 @@ npm i react-fast-marquee
 ## for star ratings
 
 npm i react-rating-stars-component
+
+## for Meta tags 
+
+npm i react-helmet
